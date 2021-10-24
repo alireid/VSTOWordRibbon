@@ -1,0 +1,13 @@
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\VSTOWordRibbon.dll
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\VSTOWordRibbon.pdb
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\VSTOWordRibbon.dll.manifest
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\VSTOWordRibbon.vsto
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.Properties.Resources.resources
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.csproj.GenerateResource.cache
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.dll
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.pdb
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\bin\Debug\Resources\Do1_128px.png
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.csproj.AssemblyReference.cache
+C:\Users\Ali Reid\Desktop\VSTOWordRibbon\VSTOWordRibbon\obj\Debug\VSTOWordRibbon.csproj.CopyComplete
